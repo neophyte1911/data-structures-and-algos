@@ -1,11 +1,9 @@
 Repo made: 26/03/23
 
-
 Repo Description:
     1. Introduction for data structure and algorithm
     2. Common methods for the data structure (Traversal, Access, etc)
     3. Practice problems (From leetcode or hackerrank)
-
 
 Breakdown:
         Data Structures
